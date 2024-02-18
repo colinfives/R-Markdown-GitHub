@@ -18,7 +18,7 @@ in bulk is very useful for assessing the top performers for a given
 season.
 
 <figure>
-<img src="racingpost_1.PNG" title="Title"
+<img src="image_1.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -35,7 +35,7 @@ useful in this scenario as it can be set up to click the next button
 automatically and extract the data on each, consecutive page.
 
 <figure>
-<img src="racingpost_2.PNG" title="Title"
+<img src="image_2.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -111,7 +111,7 @@ After running this code, the Chrome window controlled by RSelenium will
 open the chosen site.
 
 <figure>
-<img src="racingpost_3.PNG" title="Title"
+<img src="image_3.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -128,7 +128,7 @@ link and choosing the *inspect* option. This will open the DOM panel and
 show its HTML code where the `xpath` can be copied from.
 
 <figure>
-<img src="racingpost_4.PNG" title="Title"
+<img src="image_4.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -169,7 +169,7 @@ cookies to remove the banner.
 ```
 
 <figure>
-<img src="racingpost_5.PNG" title="Title"
+<img src="image_5.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -189,7 +189,7 @@ following race types:
 4.  Worldwide AW
 
 <figure>
-<img src="racingpost_6.PNG" title="Title"
+<img src="image_6.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -271,7 +271,7 @@ are:
     below)
 
 <figure>
-<img src="racingpost_7.PNG" title="Title"
+<img src="image_7.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
@@ -459,7 +459,7 @@ So we have successfully pulled all the data requested - it’s now time to
 clean it up.
 
 <figure>
-<img src="racingpost_8.PNG" title="Title"
+<img src="image_8.PNG" title="Title"
 alt="Screen shot from racing post statistics page" />
 <figcaption aria-hidden="true"><em>Screen shot from racing post
 statistics page</em></figcaption>
